@@ -12,6 +12,6 @@ product: Jekyll How-to Guide
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \\
 
-![image-title-here](/images/s2.jpeg)
+![image-title-here](../../../s2.jpeg)
 \\
 ഷെറിൻ അവന്റെ ഗ്രാമത്തിൽ
