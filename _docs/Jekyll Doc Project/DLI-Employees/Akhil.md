@@ -5,89 +5,18 @@ permalink: akhil-pradeep.html
 product: Jekyll How-to Guide
 ---
 
-Atom is a free text editor that is a favorite tool of many writers because it is free. This page provides some tips for using Atom (Visual Studio Code- My insertion).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+അഖിൽ ഡിഎൽഎയിൽ ഡിസൈനർ ആണ്. കണ്ണൂരിൽ ജനിച്ച അദ്ദേഹം ഇപ്പോൾ തൃശൂരിൽ താമസിക്കുന്നു.ആകർഷണീയതയും അഗാധ സ്നേഹവും കൊണ്ട് ആളുകൾ അവനെ കോഴി എന്ന്  വിളിക്കുന്നു, 
 
-* [Customize the invisibles and tab spacing in Atom:](#customize-the-invisibles-and-tab-spacing-in-atom)
-* [Adjust the display for auto-complete](#adjust-the-display-for-auto-complete)
-* [Show files listed in .gitignore](#show-files-listed-in-gitignore)
-* [Atom Shortcuts](#atom-shortcuts)
-* [Atom Snippets](#atom-snippets)
-* [Use Snippets](#use-snippets)
+ഒരാളുടെ ചേരിപ്പോ / ഷൂസോ കണ്ടാൽ തന്നെ ആ വ്യക്തി ആരാണെന്നു അറിയാനുള്ള ഒരു പ്രത്യേക തരം കഴിവ് അവൻ സ്വായത്തമാക്കിയിട്ടുണ്ട്.
 
-If you haven't downloaded [Atom](https://atom.io/), download and install it. Use this as your editor when working with Jekyll. The syntax highlighting is probably the best among the available editors, as it was designed with Jekyll-authoring in mind. However, if you prefer Sublime Text, WebStorm, or some other editor, you can also use that.
+ഒരു ആഴ്ച എന്നെ ചുരുങ്ങിയ കാലയളവിൽ തന്നെ തന്റെ ഓഫീസിലെ 12 ലേറെ പെൺകുട്ടികൾക്ക് പ്രേമലേഖനങ്ങൾ അയച്ചു കൊണ്ട് റെക്കോർഡ് സൃഷ്ടിക്കുവാൻ  അദ്ദേഹത്തിന് കഴിഞ്ഞിട്ടുണ്ട്.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-## Customize the invisibles and tab spacing in Atom:
+Akhil, is also known as Kozhi is a designer at DLI. He is born and brought up in Kannur and resides in Trissur now. He also posses some great skill like identifying a person by seeing his/ her shoes 
+  
+Within a short period of one week he has managed to send love letters to more than 12 girls in his company. That is the reason why people call him kozhi
 
-1. Go to **Atom &gt; Preferences**.
-2. On the **Settings** tab, keep the default options but also select the following:
-   * **Show Invisibles**
-   * **Soft Wrap**
-   * For the **Tab Length**, type **4**.
-   * For the **Tab Type**, select **soft**.
+![image-title-here](/images/akhil.jpeg)
 
-## Adjust the display for auto-complete
-
-If you don't adjust the timing on the auto-complete, the constant prompts from the editor get annoying. At the same time, when you want the prompts, it's extremely helpful to have this feature.
-
-1. Go to **Atom &gt; Preferences**.
-2. Click the **Packages** tab.
-3. Search for **autocomplete-plus**.
-4. In the **Display Before Suggestions Shown** box, type **300**.
-5. In the **Keymap for Confirming a Suggestion** box, select **tab and enter**.
-
-## Show files listed in .gitignore
-
-By default, files listed in .gitignore will be hidden from view in Atom. You can adjust this by doing the following:
-
-1. Go to **Atom &gt; Preferences**.
-2. Click the **Packages** tab.
-3. Search for **Tree View** package.
-4. Click **Settings**.
-5. Clear the check box that says **Hide VCS Ignored Files**.
-
-## Atom Shortcuts
-
-* **Cmd + T**: Find file
-* **Cmd + Shift + F**: Find across project
-* **Cmd + Alt + S**: Save all
-
-(For Windows, replace "Cmd" with "Ctrl".)
-
-## Atom Snippets
-
-You can use a number of shortcuts with Atom. These shortcuts are entered as snippets. You have to enter these shortcuts manually in your Atom editor.
-
-## Use Snippets
-
-Snippets expand stored text from a keyword shortcut. For example, if you type **ximage** and then press **Enter**, it expands to {% raw %}{% include image.html file="" max-width="" border="" url="" caption="" alt="" %} {% endraw %} assuming you have this snippet configured.
-
-To configure snippets:
-
-1. Copy the snippets file in **assets/snippets.txt**.
-2. In Atom, go to **Atom &gt; Snippets**.
-3. Replace the existing snippet contents with the content you pasted. Make sure your cursor is flush left before pasting the content.
-
-Here are the shortcuts:
-
-* xtoc
-* xfront
-* xcallout
-* xnote
-* xtip
-* xcaution
-* xwarning
-* xlinks
-* ximage
-* xinline\_image
-* xaudio
-* xbookmark
-* xcomment
-* xcode
-* xnavtabs
-* xtable
-
-To insert the code from the snippet, type the shortcut and press **Enter**. Note that you have to be in a Markdown file for the snippets to work. The snippets are associated with Markdown files.
-
-If you have the "autocomplete plus" package turned on in Atom, you'll see prompts when you enter this text. You can also add your own shortcuts to your snippets file by following the same format.
-
-{% include links.html %}
+{:class="img-responsive"}
