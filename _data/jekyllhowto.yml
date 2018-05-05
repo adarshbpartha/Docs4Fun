@@ -21,6 +21,47 @@ folders:
   - title: TOC page
     jurl: /pdf_toc_page.html
     pdf: true
+    
+    
+
+- title: Employees Profile
+  pdf: true
+  jurl: /minitoc_theme_instructions.html
+
+  folderitems:
+  - title: Sherin Babu
+    jurl: /sherin-babu-text-editor.html
+    ref: jekyllhowto-getting-started
+    pdf: true
+    bookmarks: [breadcrumbsection]
+
+  - title: Akhil Pradeep
+    jurl: /akhil-pradeep.html
+    ref: jekyllhowto-sidebar-navigation
+    bookmarks: [sidebarentries]
+    pdf: true
+
+  - title: Unais
+    jurl: /unais-babu-text-editor.html
+    ref: jekyllhowto-content-and-formatting
+    bookmarks: [kramdowntoc, images_section]
+    pdf: true
+
+  - title: Generate a PDF
+    jurl: /jekyllhowto-pdf.html
+    ref: jekyllhowto-pdf
+    pdf: true
+
+  - title: Troubleshooting
+    jurl: /jekyllhowto-troubleshooting.html
+    ref: jekyllhowto-troubleshooting
+    pdf: true
+
+
+
+
+
+
 
 - title: Theme Instructions
   pdf: true
