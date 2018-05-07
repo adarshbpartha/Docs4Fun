@@ -13,7 +13,7 @@ product: Jekyll How-to Guide
 ഒരു ആഴ്ച എന്നെ ചുരുങ്ങിയ കാലയളവിൽ തന്നെ തന്റെ ഓഫീസിലെ 12 ലേറെ പെൺകുട്ടികൾക്ക് പ്രേമലേഖനങ്ങൾ അയച്ചു കൊണ്ട് റെക്കോർഡ് സൃഷ്ടിക്കുവാൻ  അദ്ദേഹത്തിന് കഴിഞ്ഞിട്ടുണ്ട്.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Akhil, is also known as Kozhi is a designer at DLI. He is born and brought up in Kannur and resides in Trissur now. He also posses some great skill like identifying a person by seeing his/ her shoes 
+Akhil, also known as Kozhi is a designer at DLI. He is born and brought up in Kannur and resides in Trissur now. He posses some exceptional skill like identifying a person by seeing his/ her shoes 
   
 Within a short period of one week he has managed to send love letters to more than 12 girls in his company. That is the reason why people call him kozhi
 
