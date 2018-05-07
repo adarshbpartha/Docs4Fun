@@ -13,4 +13,5 @@ product: Jekyll How-to Guide
 ![image-title-here](/images/s2.jpeg)
 
 {:class="img-responsive"}
+
 ഷെറിൻ അവന്റെ ഗ്രാമത്തിൽ
