@@ -11,6 +11,4 @@ product: Jekyll How-to Guide
 തികഞ്ഞ ആത്മാർത്ഥതയോടെ കാലത്തു തന്നെ ജിമ്മിൽ പോവും. രണ്ടു മണിക്കൂർ workout-um നാല് നേരവും ഭക്ഷണവും ഇല്ലെങ്കിൽ ഷെറിന്റെ ജീവിതം പൂര്ണമാകില്ലെന്നു പറയാതെ വയ്യ .
 ```
 
-
-
-ഷെറിൻ അവന്റെ ഗ്രാമത്തിൽ
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}<br><br>ഷെറിൻ അവന്റെ ഗ്രാമത്തിൽ
