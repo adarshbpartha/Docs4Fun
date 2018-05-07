@@ -12,3 +12,4 @@ product: Jekyll How-to Guide
 ```
 
 ![](/uploads/s2.JPEG)<br>&nbsp;
+ഷെറിൻ അവന്റെ ഗ്രാമത്തിൽ
